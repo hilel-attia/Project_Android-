@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hilel_attia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">Map</string>
+    <string name="map_key" translatable="false">AIzaSyA9IjEXde-LIdYIS4QF0obL9EutWtxd6n0</string>
+</resources>
